@@ -1,0 +1,103 @@
+body
+	{
+		background-color: black;
+	}
+	.Hydrogen, .Nitrogen, .Oxygen, .Selenium, .Carbon, .Phosphorus, .Sulfur, .Selenium
+	{
+		text-align: center;
+		background-color: lightgreen;
+		font: bold;
+	}
+	.Helium, .Neon, .Argon, .Krypton, .Xenon, .Radon, .Organneson
+	{
+		text-align: center;
+		background-color: lightblue;
+		background-image: linear-gradient(45deg,lightblue,white,lightblue);
+	}
+	.Lithium, .Sodium, .Potassium, .Rubidium, .Caesium, .Francium
+	{
+		text-align: center;
+		background-color: lightpink;
+		background-image: linear-gradient(45deg,lightpink,white,lightpink);
+	}
+	.Flourine, .Chlorine, .Bromine, .Iodine, .Astatine, .Tennesine
+	{
+		text-align: center;
+		background-color: cyan;
+		background-image: linear-gradient(45deg,cyan,white,cyan);
+	}
+	.Boron, .Silicon, .Germanium, .Arsenic, .Antimony, .Tellurium, .Polonium
+	{
+		text-align: center;
+		background-color: green;
+		background-image: linear-gradient(45deg,green,white,green);
+	}
+	.Beryllium, .Magnesium, .Calcium, .Strontium, .Barium, .Radium
+	{
+		text-align: center;
+		background-color: brown;
+		background-image: linear-gradient(45deg,brown,white,brown);
+	}
+	.Scandium, .Yttrium, .Titanium, .Zirconium, .Hafnium, .Rutherfordium, .Vanadium, .Niobium, .Tantalum, .Dubnium, .Chromium, .Molybdenum, .Tungsten, .Seaborgium, .Manganese, .Technetium, .Rhenium, .Iron, .Osmium, .Hassium, .Cobalt, .Rhodium, .Iridium, .Nickel, .Palladium, .Platinum, .Copper, .Silver, .Gold, .Zinc, .Cadmium, .Mercury, .Copernicium, .Meitnerium, .Darmstadtium, .Roentgenium, .Ruthenium, .Bohrium
+	{
+		text-align: center;
+		background-color: yellow;
+		background-image: linear-gradient(45deg,yellow,white,yellow);
+	}
+	
+	.Lanthanum, .Cerium, .Praseodymium, .Neodymium, .Promethium, .Samarium, .Europium, .Gadolinium, .Terbium, .Dysprosium, .Holmium, .Erbium, .Thulium, .Ytterbium, .Lutetium
+	{
+		text-align: center;
+		background-color: lightcyan;
+	}
+	.Actinium, .Thorium, .Protactinium, .Uranium, .Neptunium, .Americium, .Curium, .Berkelium, .Carlifonium, .Einsteinium, .Fermium, .Mendelevium, .Nobelium, .Lawrencium, .Plutonium, .Actinium
+	{
+		text-align: center;
+		background-color: pink;
+		background-image: linear-gradient(45deg,pink,white,pink);
+	}
+	.Aluminium, .Gallium, .Indium, .Thallium, .Nihonium, .Tin, .Lead, .Flerovium, .Bismith, .Moscovium, .Livemorium
+	{
+		text-align: center;
+		background-color: grey;
+		background-image: linear-gradient(45deg,grey,white,grey);
+	}
+	.enum
+	{
+		text-align: left;
+	}
+	.anum
+	{
+		text-align: right;
+	}
+	.keytext
+	{
+		font-weight: bold;
+		font-size: 1.5vw;
+	}
+	table
+	{
+		width: 100%;
+	}
+	h1
+	{
+		color: white;
+		font-size: 5vw;
+	}
+	img
+	{
+		width: 100%;
+		height: 20vw;
+	}
+	td
+	{
+		<!-- border-style: solid; -->
+		border-color: solid black;
+		height: 3vw;
+		width: 3vw;
+    	font-size: 1vw;
+	}
+	p
+	{
+		color: white;
+	}
